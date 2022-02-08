@@ -1,0 +1,2 @@
+s = 'VIJAYAWADA'
+print(s)
