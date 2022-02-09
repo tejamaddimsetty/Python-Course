@@ -32,3 +32,16 @@ print('Specific interval of the List:',x[1:3])
 print('The last element of the List:',x[-1])
 #print the length of the string
 print('Length of the List:',len(x))
+
+"""
+List : Modifying Content
+y[i] = a reassigns the value a to the ith element
+The method apped also modifies the list
+"""
+
+y=[1,2,3]
+print('List:',y)
+y[1]=15
+print('The updated list with new value in Index = 1 is: ',y)
+y.append(12)
+print('Append element to the updated list:',y)
