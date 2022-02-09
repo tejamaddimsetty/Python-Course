@@ -1,2 +1,0 @@
-s = 'VIJAYAWADA'
-print(s)
